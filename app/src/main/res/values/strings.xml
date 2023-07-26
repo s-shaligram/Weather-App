@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lianne\'s WeatherApp</string>
+    <string name="loc">, Ontario</string>
+    <string name="location">Location: </string>
+    <string name="cur">Current Temperature: </string>
+    <string name="max">Todays Maximum Temperature: </string>
+    <string name="min">Todays Minimum Temperature: </string>
+    <string name="desc">Todays Description: </string>
+    <string name="precipitation">Probability of Precipitation (POP): </string>
+    <string name="submit">Submit</string>
+    <string name="city">City</string>
+</resources>
